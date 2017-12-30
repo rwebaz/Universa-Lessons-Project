@@ -6,8 +6,8 @@
 theme: "jekyll-theme-cayman"
 # repository: https://www.github.com/rwebaz/Universa-Lessons-Project
 title: "Universa Lessons Project"
-tagline: "A GitHub repo of Lessons and Articles that emphasize Distrbuted Acyclic Graph C-Chains"
-description: "A GitHub repo of Lessons and Articles that emphasize Distrbuted Acyclic Graph C-Chains"
+tagline: "A GitHub repo of Lessons and Articles that emphasize Directed Acyclical Graph C-Chains"
+description: "A GitHub repo of Lessons and Articles that emphasize Directed Acyclical Graph C-Chains"
 twitter:
     username: "mminail"
 author:
