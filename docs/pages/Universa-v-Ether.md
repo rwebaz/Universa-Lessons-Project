@@ -11,7 +11,7 @@ The two forms of *ether* that are used to drive the **Smart Contracts** over at 
 
 1. **ETC** = Ethereum Classic.
 
-{% include md-toc-medcoin-gold.htm %}
+{% include toc-flammarion.md %}
 
 ## Universa
 
