@@ -1,15 +1,18 @@
 ---
 title: Universa v Ripple
 layout: default
-navigation_weight: 9
+excerpt: The Universa environment can be compared to the Ripple ecosystem ...
+description: Universa (UTN) and Ripple (XRP) are two crypto currencies. One was born at the end of 2017, the other conceived in 2013.
+repo: Unix-Lessons-Project 
+ver_date: 11-17-19
+navigation_weight: 8
+categories: template
 ---
-# Universa v Ripple
-
-Universa (UTN) and Ripple (XRP) are two crypto currencies. One was born at the end of #2017, the other conceived in #2013.
-
-{% include toc-flammarion.md %}
+{% include toc.md %}
 
 ## Born First
+
+{{ page.description}}
 
 Although the two platforms (UTN) and (XRP) are similar in their pursuit of transactions to bind into blocks, subtle differences in their competing structures afford a closer look.
 
@@ -41,8 +44,4 @@ Enjoy the successful output!
 {% endraw %}
 ```
 
-{% include sources-and-uses.md %}
-
-### External Sources
-
-- The [Project Source Links](https://mminail.github.io/Universa/Source-Universa-Links.htm){:title="Click to Visit the Source Links page of the Universa Lessons Project at GitHub pages"}{:target="_blank"} page of the Universa Lessons Project. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+{% include patreon-link.md %}
