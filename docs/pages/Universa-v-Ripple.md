@@ -6,7 +6,7 @@ description: Universa (UTN) and Ripple (XRP) are two crypto currencies. One was 
 repo: Unix-Lessons-Project 
 ver_date: 11-17-19
 navigation_weight: 8
-categories: template
+categories: page
 ---
 {% include toc.md %}
 
@@ -37,6 +37,10 @@ And, that's another $2 million USD in market value at the close of $2017.
 ## Last Subtitle
 
 Place the introducing line of text ie.) the 'tagline' here ...
+
+**Note**. The above synopsis was derived from an article written by Blank [[2](#BLANK){:.red}].
+
+### Raw Code Block
 
 ```liquid
 {% raw %}
