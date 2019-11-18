@@ -1,65 +1,28 @@
 ---
 title: Home Page
 layout: default
+excerpt: Place the introducing line of text ie.) the 'lead' here ...
+description_one: Issue, Rule, Analysis, Conclusion = IRAC
+description_two: Raw Code, Issues, and Sources
+repo: Universa Lessons Project
+ver_date: 11-12-19
 navigation_weight: 1
+categories: page
 ---
-# Universa Lessons Project Home Page
+# {{ page.title }} | Table O Contents
 
-{{ site.description }}
+{{ page.excerpt }}
 
-## Table O Contents
+{% include toc.md %}
 
-![MMI™ Flammarion Logo Badge](assets/img/svg/MMI-Medmj-Org-Got-Tree-Flammarion-Person-Through-Celestial-Sphere-circle-543-x-543.svg){:width="120px"}
+{% include irac-issue-rule-analysis-conclusion.md %}
 
-- TOC
-{:toc}
+{% include raw-code-issues-sources.md %}
 
-**Note**. The above **Live** rendition of the **MMI™ Flammarion Logo Badge** ( if visible ) is an `( .svg )` image file set to the dimensions of 120.00 px X 120.00 px.
+#### External Sources
 
-## Issue 12-31-17
+To view a list of aggregate external links for this project, visit the [Home Page](https://mminail.github.io/){:title='Click to Visit the Home Page of the Concepts Library at MMINAIL'}{:target='_blank'} of the MMINAIL concept library.
 
-The **Issue** of a successful legal argument is prefaced by a concise, to the point coin flip.
+- [Universa Source Links](../Universa/Universa-Source-Links.htm){:title="Click to Visit the Universa Source Links page of the Universa Lessons Project at the Concept Library"}{:target="_self"}
 
-Should it be, or should it not?
-
-### The Socratic Method
-
-State the issue of the problem in the form of a question ie.) How do you code this stuff?
-
-## Rule
-
-The rule may be split into two components ...
-
-### Current Majority View
-
-What is the current view as expressed by the majority of federal districts and state courts based on the common law with reference to the UCC, 2nd Restatements, etc. et al?
-
-### The Minority View
-
-What is the minority view as expressed by the dissent?
-
-{% include analysis-code-live.md %}
-
-## Conclusion
-
-A concise conclusion wraps the argument ...
-
-### Summation
-
-Delineate the steps ...
-
-### Solution
-
-Expound the solution ...
-
-### Description
-
-{{ site.description }}
-
-{% include raw-code-anchors.md %}
-
-{% include sources-and-uses.md %}
-
-### External Sources
-
-- The [Project Source Links](https://mminail.github.io/Universa/Source-Universa-Links.htm){:title="Click to Visit the Source Links page of the Universa Lessons Project at GitHub pages"}{:target="_blank"} page of the Universa Lessons Project. Published by © 2000 - 2018 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+{% include patreon-link.md %}
