@@ -1,17 +1,22 @@
 ---
 title: Universa v Ether 
 layout: default
-navigation_weight: 9
+excerpt: The Universa environment can be compared to the Ether ecosystem ...
+description: Place the intro paragraph ie.) the 'synopsis' here ...
+repo: Universa-Lessons-Project 
+ver_date: 11-17-19
+navigation_weight: 8
+categories: template
 ---
-# Universa v Ether
+{% include toc.md %}
+
+## Ethereum
 
 The two forms of *ether* that are used to drive the **Smart Contracts** over at the **Ethereum Network** are:
 
 1. **ETH** = Ethereum, and,
 
 1. **ETC** = Ethereum Classic.
-
-{% include toc-flammarion.md %}
 
 ## Universa
 
@@ -189,10 +194,4 @@ If on the other hand, the prototypically targeted "maybe-an-offer" is sufficient
 
 The above discussed "maybe-an-offer" does not fall within the penumbra of the **Securities Act of 1933**.
 
-{% include sources-and-uses.md %}
-
-### External Sources
-
-- The [Project Source Links](https://mminail.github.io/Medcoin/Source-Medcoin-Links.htm){:title="Click to Visit the Source Links page of the Medcoin Lessons Project at GitHub pages"}{:target="_blank"} page of the Medcoin Lessons Project. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
-
-- The [National Conference of Commissioners on Uniform State Laws](http://www.uniformlaws.org/Committee.aspx?title=Regulation%20of%20Virtual%20Currency%20Businesses%20Act){:title="Click to Visit The National Conference of Commissioners on Uniform State Laws"}{:target="_blank"}. Published by © 2017 [Uniformlaws.org](https://www.uniformlaws.org){:title="Click to Visit Uniformlaws dot org ..."}{:target="_blank"}.
+{% include patreon-link.md %}
