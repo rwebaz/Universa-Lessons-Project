@@ -169,6 +169,12 @@ gem 'jekyll-docs', '3.8.5'
 #
 # jekyll serve --watch --baseurl "" --port 4001 -o
 #
+# Other switches can be added to trace a cache and the `bundle exec` prefix can be added to the `jekyll serve` command as above, as follows:
+#
+# bundle exec jekyll serve --watch --trace --baseurl "" --port 4003 -o
+#
+# The final `-o` switch in the above Terminal command auto opens the browser
+#
 # The default theme for new Jekyll sites is 'jekyll-theme-minimal 0.1.1'.
 # 
 # Note. You may change the theme to anything you like via the config dot yaml page located in the `docs` folder of your new repo
