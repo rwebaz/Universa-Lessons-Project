@@ -2,7 +2,7 @@
 title: Universa v Ripple
 layout: default
 excerpt: The Universa environment can be compared to the Ripple ecosystem ...
-description: Universa (UTN) and Ripple (XRP) are two crypto currencies. One was born at the end of 2017, the other conceived in 2013.
+hint: Universa (UTN) and Ripple (XRP) are two crypto currencies. One was born at the end of 2017, the other conceived in 2013.
 repo: Unix-Lessons-Project 
 ver_date: 11-17-19
 navigation_weight: 8
@@ -12,7 +12,7 @@ categories: page
 
 ## Born First
 
-{{ page.description}}
+> **Hint**. {{ page.hint }}
 
 Although the two platforms (UTN) and (XRP) are similar in their pursuit of transactions to bind into blocks, subtle differences in their competing structures afford a closer look.
 
@@ -36,16 +36,14 @@ And, that's another $2 million USD in market value at the close of $2017.
 
 ## Last Subtitle
 
-Place the introducing line of text ie.) the 'tagline' here ...
+More to come ...
 
-**Note**. The above synopsis was derived from an article written by Blank [[2](#BLANK){:.red}].
+***
 
-### Raw Code Block
+**Note**. The above synopsis was derived from an article written by Blank Author [[1](#BLANKAUTHOR){:.red}].
 
-```liquid
-{% raw %}
-Enjoy the successful output!
-{% endraw %}
-```
+1. {:#BLANKAUTHOR}[A Narrative of Psychology by Blank Author, Jan #1999](http://cowles.yale.edu/sites/default/files/files/pub/d20/d2069.pdf){:target="_blank"}
+
+***
 
 {% include patreon-link.md %}

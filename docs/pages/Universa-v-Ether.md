@@ -2,15 +2,17 @@
 title: Universa v Ether 
 layout: default
 excerpt: The Universa environment can be compared to the Ether ecosystem ...
-description: Place the intro paragraph ie.) the 'synopsis' here ...
+hint: Place the intro paragraph ie.) the 'synopsis' here ...
 repo: Universa-Lessons-Project 
-ver_date: 11-17-19
+ver_date: 11-20-19
 navigation_weight: 8
-categories: template
+categories: page
 ---
 {% include toc.md %}
 
 ## Ethereum
+
+> **Hint**. {{ page.hint }}
 
 The two forms of *ether* that are used to drive the **Smart Contracts** over at the **Ethereum Network** are:
 
@@ -193,5 +195,17 @@ If on the other hand, the prototypically targeted "maybe-an-offer" is sufficient
 ## Conclusion
 
 The above discussed "maybe-an-offer" does not fall within the penumbra of the **Securities Act of 1933**.
+
+## Last Subtitle
+
+More to come ...
+
+***
+
+**Note**. The above synopsis was derived from an article written by Blank Author [[1](#BLANKAUTHOR){:.red}].
+
+1. {:#BLANKAUTHOR}[A Narrative of Psychology by Blank Author, Jan #1999](http://cowles.yale.edu/sites/default/files/files/pub/d20/d2069.pdf){:target="_blank"}
+
+***
 
 {% include patreon-link.md %}
