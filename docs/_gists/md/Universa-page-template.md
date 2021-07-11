@@ -3,8 +3,8 @@ title: Shell Gist
 layout: default
 excerpt: Place the introducing line of text ie.) the 'tagline' here ...
 hint: Place the intro paragraph ie.) the 'hypothesis' here ...
-repo: Shell-Lessons-Project
-ver_date: 11-20-19
+repo: Universa-Lessons-Project
+ver_date: 07-08-21
 navigation_weight: 8
 categories: template
 ---

@@ -1,12 +1,12 @@
 ---
 title: Home Page
 layout: default
-excerpt: Place the introducing line of text ie.) the 'lead' here ...
+excerpt: Universa Blockchain Lessons that display the interface between `Docker Desktop` and the Universa Uniclient command line tool ...
 description_one: Issue, Rule, Analysis, Conclusion = IRAC
 repo: Universa-Lessons-Project
-ver_date: 11-20-19
+ver_date: 07-01-21
 navigation_weight: 1
-categories: page
+categories: pages
 ---
 
 {% include toc.md %}
