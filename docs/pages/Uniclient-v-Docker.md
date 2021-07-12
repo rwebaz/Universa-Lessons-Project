@@ -48,9 +48,13 @@ And,
 
 **Note**. A preferences file was also removed in the background at:
 
-`/root/.java/.userPrefs/prefs.xml`
+```javascript
 
-Plus, a new `private key` has just been generated and stored within the `/root/.universa` subdirectory
+/root/.java/.userPrefs/prefs.xml
+
+```
+
+Plus, a new `private key` has just been generated and stored within the `~/.universa` subdirectory
 
 #### Confirmation
 
@@ -62,7 +66,7 @@ Plus, a new `private key` has just been generated and stored within the `/root/.
 
 ## Sources
 
-The above synopsis was derived from an article written by the `Universa Node Managers` for the `Universa Client Tool` or `Uniclient`, Network ver 3.14.4 [[1](#UNIVERSAUNICLIENT){:.red}].
+The above synopsis was derived from an article written by the `Universa Node Managers` for the `Universa Client Tool` or `Uniclient`, Network ver 3.14.4 [[2](#UNIVERSAUNICLIENT){:.red}].
 
 ***
 
