@@ -213,7 +213,7 @@ However, if you are simply purchasing the `UTN-token` as a speculative trade ple
 
 Purchasing on the open market can be done via the `Bilaxy Exchange`.
 
-But, you must first transfer in some `USDC` "stable" coin from your `Coinbase` account and convert the `USDC` to a like amount of `ETH`.
+But, you must first transfer in some `USDC` "stable" coin from your `Coinbase` [[1](#COINBASE){:.red}] account and convert the `USDC` to a like amount of `ETH`.
 
 Then, and only then ...
 
@@ -225,7 +225,7 @@ In effect, a swap of `ETH` for `UTN-P`.
 
 Is this a wise move given the many reported projects the `Universa blockchain` has been involved with to date?
 
-Do you think the `Universa-blockchain` will still exist in the year 2027 (one-decade past the company's `TGE`)?
+Do you think the `Universa-blockchain` will still exist in the year 2027 one-decade past the company's `TGE`?
 
 How much of the original $28 million USD raised from `crypto-investors` is still there "in the kitty" at the `Universa Foundation`?
 
@@ -233,9 +233,11 @@ And, how much has already been spent?
 
 ***
 
-**Note**. The above synopsis was derived from the chart service at Coin Gecko [[1](#COINGECKO){:.red}].
+**Note**. The above synopsis was derived from the chart service at `Coin Gecko` [[2](#COINGECKO){:.red}].
 
-1. {:#COINGECKO}[Check out `Universa` at Coin Gecko](https://www.coingecko.com/coins/universa){:target="_blank"}
+1. {:#COINBASE}[Check out `USDC Stable Coin` at Coin Base](https://www.coinbase.com/join/weber_wdx){:target="_blank"}
+
+2. {:#COINGECKO}[Check out `Universa` at Coin Gecko](https://www.coingecko.com/coins/universa){:target="_blank"}
 
 ***
 
