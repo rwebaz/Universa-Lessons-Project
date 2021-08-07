@@ -1,5 +1,5 @@
 # 
-# Gemfile ver 071121 Satellite Repo
+# Gemfile ver 080721 Satellite Repo
 # 
 # frozen_string_literal: true
 #
@@ -13,7 +13,9 @@ source "https://rubygems.org"
 # ruby versions["ruby"]
 #
 # ruby "2.6.3"
+# ruby "2.7.2"
 # ruby "2.7.3"
+# ruby "3.0.1"
 ruby "3.0.2"
 # 
 git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
@@ -45,6 +47,10 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 # Note. You will need to install a copy of the 'Gem Bundler' program onto your development machine
 #
 # From the global Terminal prompt, run the following command statement:
+#
+# Note. The current version of `Bundler` is: 2.2.16
+#
+# However, the working version for most of the repos here is: 1.16.1
 #
 # gem install bundler
 #
@@ -211,6 +217,8 @@ gem 'jekyll-docs', '3.9.0'
 #
 # bundle exec jekyll serve --watch --trace --baseurl "" --port 4002 -o
 #
+# bundle exec jekyll serve --watch --trace --baseurl "" --port 4003 -o
+#
 # The final `-o` switch in the above Terminal command auto opens the browser.
 #
 # The default theme for new Jekyll sites is 'jekyll-theme-minimal 0.1.1'.
@@ -234,6 +242,11 @@ gem 'activesupport', '6.0.3.1'
 gem 'github-pages-health-check', '1.17.2'
 #
 gem 'github-pages', '215'
+#
+# Note. The `github-markdown` dependency is no longer
+# designated at the online GitHub Pages dependency chart
+# C=> https://pages.github.com/versions/
+# gem 'github-markdown'
 #
 gem 'i18n', '0.9.5'
 #
