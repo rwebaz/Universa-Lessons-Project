@@ -4,7 +4,7 @@ layout: default
 excerpt: Universa Blockchain Lessons that display the interface between `Docker Desktop` and the Universa Uniclient command line tool ...
 description_one: Issue, Rule, Analysis, Conclusion = IRAC
 repo: Universa-Lessons-Project
-ver_date: 07-01-21
+ver_date: 08-07-21
 navigation_weight: 1
 categories: pages
 ---
